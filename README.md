@@ -16,3 +16,7 @@ Allocation funds, also known as balanced funds, invest in a mix of asset classes
 Fund Purpose: To provide a diversified portfolio in a single investment.
 
 Risk/Return Profile: Varies based on the allocation strategy; can range from conservative (more bonds) to aggressive (more stocks).
+
+NOTE: If you would like to have access to the data, please reach out to my email from my LinkedIn.
+
+Thanks!
